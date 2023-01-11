@@ -1,0 +1,76 @@
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+button {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h2 {
+    font: 900 1.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+h3 {
+	font: 900 1.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+p {
+    font: 900 1.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+.margin{
+    margin: 0;
+}
+.left{
+    text-align: left;
+
+}
+
+.headborder {
+    min-height: 200px;
+    border: 8px solid;
+    padding: 1rem;
+    border-style: solid;
+    border-color: whitesmoke;
+}
+
+.bodyborder {
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+
