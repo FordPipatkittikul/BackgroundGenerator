@@ -9,8 +9,8 @@ input1.value = "#ff0000";
 input2.value = "#ffff00";
 currrentCss.textContent = "CSS : " 
 + "linear-gradient(to right, " 
-+ input1.value + ", " 
-+ input2.value + ")";
++ "rgb(255, 0, 0)" + ", " 
++ "rgb(255, 255, 0)" + ").";
 
 function setGradient(){
 	body.style.background = "linear-gradient(to right, " 
