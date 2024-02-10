@@ -1,4 +1,6 @@
 # BackgroundGenerator 
-link: https://fordpipatkittikul.github.io/BackgroundGenerator/
+
+usage: To find a colorful background for your personal project
+
 
 
