@@ -1,6 +1,7 @@
 # BackgroundGenerator 
 
-usage: Making a colorful background for your personal project.
+# usuage
+  Pick a color for your background
 
 
 
