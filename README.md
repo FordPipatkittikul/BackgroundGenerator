@@ -1,6 +1,6 @@
 # BackgroundGenerator 
 
-## purpose
+## Purpose
   learning How DOM works
   
 
